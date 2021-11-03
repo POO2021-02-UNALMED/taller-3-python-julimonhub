@@ -1,2 +1,2 @@
 class Control:
-    :)
+    psuh
